@@ -5,7 +5,7 @@
   border-radius: 8px;
   border: none;
   font-size: 1rem;
-  font-weight: 600;
+  font-weight: 100;
 }
 
 ::placeholder {
@@ -20,7 +20,7 @@
   color: #fff;
   font-size: 1rem;
   font-weight: 600;
-  background-color: #b66641;
+  background-color: #b95b2f;
   cursor: pointer;
   transition: transform 0.3s ease;
 }
@@ -42,7 +42,7 @@ a {
 a:hover {
   color: #b94109;
   text-decoration: underline;
-  transform: scale(1.04);
+  transform: scale(1.05);
 }
 
 hr {
@@ -57,5 +57,5 @@ img {
 }
 
 img:hover {
-  transform: scale(1.04) translateZ(0);
+  transform: scale(1.05) translateZ(0);
 }
