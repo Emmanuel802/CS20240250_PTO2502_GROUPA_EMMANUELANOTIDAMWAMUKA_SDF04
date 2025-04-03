@@ -9,5 +9,5 @@ body {
   color: #000;
   line-height: 2;
   height: 100vh;
-  background-color: #478074;
+  background-image: linear-gradient(45deg, #1f3b36 0%, #478074 100%);
 }
