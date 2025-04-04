@@ -1,0 +1,37 @@
+/* Mobile Layout */
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: 2em 3em;
+}
+
+.about-links {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5em;
+}
+
+.newsletter-form {
+  margin: 1.5em 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.about-us,
+.program-languages {
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  width: max-content;
+}
+hr {
+  margin: 1.5em 0;
+}
+
+img {
+  height: 1.5em;
+}
