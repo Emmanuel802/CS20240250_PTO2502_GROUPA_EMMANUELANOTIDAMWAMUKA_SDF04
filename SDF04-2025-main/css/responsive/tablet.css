@@ -5,6 +5,10 @@
   }
 
   /* Layout */
+  .footer-container {
+    margin: 3em 5em;
+  }
+
   .newsletter-form {
     display: flex;
     flex-direction: row;
